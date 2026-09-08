@@ -1,0 +1,187 @@
+{
+  "id": "2026-08-19-024720",
+  "generated_at": "2026-08-18T23:47:20.089764Z",
+  "language": "en",
+  "pages": [
+    {
+      "slug": "1-overview",
+      "title": "Overview",
+      "file": "1-overview.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-quick-start",
+      "title": "Quick Start",
+      "file": "2-quick-start.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-platform-support-and-setup",
+      "title": "Platform Support and Setup",
+      "file": "3-platform-support-and-setup.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-supported-llm-providers",
+      "title": "Supported LLM Providers",
+      "file": "4-supported-llm-providers.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-statefulagent-and-the-agentic-loop",
+      "title": "StatefulAgent and the Agentic Loop",
+      "file": "5-statefulagent-and-the-agentic-loop.md",
+      "section": "Deep Dive",
+      "group": "Agent Core",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-tool-system-and-parameter-modes",
+      "title": "Tool System and Parameter Modes",
+      "file": "6-tool-system-and-parameter-modes.md",
+      "section": "Deep Dive",
+      "group": "Agent Core",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-state-management-and-file-persistence",
+      "title": "State Management and File Persistence",
+      "file": "7-state-management-and-file-persistence.md",
+      "section": "Deep Dive",
+      "group": "Agent Core",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-streaming-and-controller-events",
+      "title": "Streaming and Controller Events",
+      "file": "8-streaming-and-controller-events.md",
+      "section": "Deep Dive",
+      "group": "Agent Core",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-skills-dynamic-capability-system",
+      "title": "Skills: Dynamic Capability System",
+      "file": "9-skills-dynamic-capability-system.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-file-system-skills-with-skill-md",
+      "title": "File-System Skills with SKILL.md",
+      "file": "10-file-system-skills-with-skill-md.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-planning-with-planmode",
+      "title": "Planning with PlanMode",
+      "file": "11-planning-with-planmode.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-sub-agent-delegation",
+      "title": "Sub-Agent Delegation",
+      "file": "12-sub-agent-delegation.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "13-context-compression-and-episodic-memory",
+      "title": "Context Compression and Episodic Memory",
+      "file": "13-context-compression-and-episodic-memory.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-agenthook-pipeline",
+      "title": "AgentHook Pipeline",
+      "file": "14-agenthook-pipeline.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-loop-detection-and-recovery",
+      "title": "Loop Detection and Recovery",
+      "file": "15-loop-detection-and-recovery.md",
+      "section": "Deep Dive",
+      "group": "Agent Extension Points",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-eval-architecture-overview",
+      "title": "Eval Architecture Overview",
+      "file": "16-eval-architecture-overview.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-defining-tasks-suites-and-graders",
+      "title": "Defining Tasks, Suites, and Graders",
+      "file": "17-defining-tasks-suites-and-graders.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-trials-outcomes-and-transcripts",
+      "title": "Trials, Outcomes, and Transcripts",
+      "file": "18-trials-outcomes-and-transcripts.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-passatk-and-pass-k-metrics",
+      "title": "pass@k and pass^k Metrics",
+      "file": "19-passatk-and-pass-k-metrics.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-recording-replay-and-rate-limiting",
+      "title": "Recording, Replay, and Rate Limiting",
+      "file": "20-recording-replay-and-rate-limiting.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Advanced"
+    },
+    {
+      "slug": "21-observability-and-trace-export",
+      "title": "Observability and Trace Export",
+      "file": "21-observability-and-trace-export.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-suite-health-analysis-and-graduation",
+      "title": "Suite Health Analysis and Graduation",
+      "file": "22-suite-health-analysis-and-graduation.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-reporting-and-markdown-output",
+      "title": "Reporting and Markdown Output",
+      "file": "23-reporting-and-markdown-output.md",
+      "section": "Deep Dive",
+      "group": "Evaluation Framework",
+      "level": "Intermediate"
+    }
+  ]
+}
